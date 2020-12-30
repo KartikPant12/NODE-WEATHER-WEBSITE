@@ -1,4 +1,4 @@
-console.log('js file loaded')
+// console.log('js file loaded')
 
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
